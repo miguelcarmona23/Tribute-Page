@@ -1,0 +1,54 @@
+body {
+  font-family: 'Noto Sans TC', sans-serif;
+  text-align: center;
+  background-color: #eeeeee;
+  
+}
+#main {
+    margin: 30px auto;
+    padding: 15px;
+    border: 0px solid;
+    border-radius: 5px;
+    background: #eee;
+}
+#img-div {
+    margin: -5px;
+    margin-top: 20px;
+    width: 100%;
+    border: 10px solid white;
+    background: white;
+    
+}
+h1 {
+  font-size: 48px;
+}
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: auto;
+  
+}
+#img-caption {
+  margin: 10px;
+}
+div {
+  display: block;
+}
+li {
+ text-align: center;
+  list-style-align: center;
+}
+blockquote {
+  font-style: italic;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 20px;
+}
+.grid-item {
+  padding: 40px;
+  font-size: 30px;
+  text-align: center;
+}
