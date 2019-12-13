@@ -34,10 +34,11 @@ img {
 }
 div {
   display: block;
+  padding-bottom: 10px;
 }
 li {
- text-align: center;
-  list-style-align: center;
+  text-align: center;
+  list-style: align;
 }
 blockquote {
   font-style: italic;
