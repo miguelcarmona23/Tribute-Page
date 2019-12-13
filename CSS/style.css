@@ -12,12 +12,12 @@ body {
     background: #eee;
 }
 #img-div {
-    margin: -5px;
-    margin-top: 20px;
-    width: 100%;
     border: 10px solid white;
     background: white;
-    
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: auto;
 }
 h1 {
   font-size: 48px;
